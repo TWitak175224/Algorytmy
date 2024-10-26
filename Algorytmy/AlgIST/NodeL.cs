@@ -8,5 +8,7 @@ namespace AlgIST
 {
     internal class NodeL
     {
+       public NodeL next, prev;
+        public int data;
     }
 }
