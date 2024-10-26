@@ -199,9 +199,35 @@ namespace AlgIST
         private void button5_Click(object sender, EventArgs e)
         {
             int[] ints = { 1, 4, 6, 2, 65, 10, 23 };
-            int[] outputarr=new int[ints.Length];
+            int[] outputarr = new int[ints.Length];
             outputarr = MojCount(ints);
             MessageBox.Show(wypisz(outputarr));
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            Lista lista = new Lista();
+            for (int i = 0; i < 9; i++)
+            {
+                lista.AddFirst(i);
+            }
+            MessageBox.Show(lista.ToStringi());
+            for (int i = 0; i < 9; i++)
+            {
+                lista.RemoveFirst();
+            }
+            MessageBox.Show(lista.ToStringi());
+            for (int i = 0; i < 9; i++)
+            {
+                lista.AddLast(i);
+            }
+            MessageBox.Show(lista.ToStringi());
+            for (int i = 0; i < 9; i++)
+            {
+                lista.RemoveLast();
+            }
+            MessageBox.Show(lista.ToStringi());
+        }
+
     }
 }

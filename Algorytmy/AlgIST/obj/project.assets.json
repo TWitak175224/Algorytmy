@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tomek\\source\\repos\\Algorytmy\\AlgIST\\AlgIST.csproj",
+      "projectUniqueName": "C:\\Users\\Tomek\\Source\\Repos\\Algorytmy2\\Algorytmy\\AlgIST\\AlgIST.csproj",
       "projectName": "AlgIST",
-      "projectPath": "C:\\Users\\Tomek\\source\\repos\\Algorytmy\\AlgIST\\AlgIST.csproj",
+      "projectPath": "C:\\Users\\Tomek\\Source\\Repos\\Algorytmy2\\Algorytmy\\AlgIST\\AlgIST.csproj",
       "packagesPath": "C:\\Users\\Tomek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tomek\\source\\repos\\Algorytmy\\AlgIST\\obj\\",
+      "outputPath": "C:\\Users\\Tomek\\Source\\Repos\\Algorytmy2\\Algorytmy\\AlgIST\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tomek\\AppData\\Roaming\\NuGet\\NuGet.Config",

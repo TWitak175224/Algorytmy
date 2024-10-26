@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlgIST")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44bd0905aa313a365d2d8d135561484349bb0706")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlgIST")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlgIST")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
